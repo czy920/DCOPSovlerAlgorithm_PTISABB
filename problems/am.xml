@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+<agents>
+	<agent name="ADPOP" class="edu.cqu.algorithms.adpop.ADPOP" method="sync"></agent>
+	<agent name="PTISABB" class="edu.cqu.algorithms.ptisabb.PTISBBAgent" method="sync"/>
+    <agent name="AsymPTFB" class="edu.cqu.algorithms.asymptfb.AsymPTFB" method="sync"/>
+    <agent name="ATWB" class="edu.cqu.algorithms.atwb.ATWB" method="sync"/>
+    <agent name="SABB_1ph" class="edu.cqu.algorithms.sabb_1ph.SABB_1ph" method="sync"/>
+
+</agents>
+</manifest>
